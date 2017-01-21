@@ -5,8 +5,11 @@ Get data from here https://www.kaggle.com/ludobenistant/hr-analytics
 
 Key Point
 1. Data Exploration
+
 2. Data Cleaning
+
 3. Feature Engineering
+
 4. Machine Learning
   classification
   1. KNeighborsClassifier
